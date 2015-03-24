@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ScalaBindings">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/out/artifacts/ScalaBindings_jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/out/artifacts/ScalaBindings_jar" recursive="false" />
+  </library>
+</component>
